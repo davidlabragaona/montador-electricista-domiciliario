@@ -40,6 +40,7 @@ I = S / V
 | DPMS | 13,6 | 4 |
 
 <hr>
+
 2026-08-19
 
 ## 9 Interruptor termomagnético
@@ -72,18 +73,19 @@ I<sub>proyecto</sub> &le; I<sub>interruptor</sub> &le; I<sub>conductor</sub>
 
 ## 11 Verificar caída de tensión
 
-&Delta;U = (2.L.I.ro)/S
-
-<math display="block">
+<math display="block" style="margin: 0 auto; text-align: left;">
 	<mrow>
-		<mi>x</mi>
+		<mi>&Delta;u</mi>
 		<mo>=</mo>
 		<mfrac>
 			<mrow>
 				<mn>2</mn>
-				<mo>L</mo>
+				<mi>L</mi>
 				<mi>I</mi>
-				<mo>&ro;</mo>
+				<mi>&rho;</mi>
+			</mrow>
+			<mrow>
+				<mi>S</mi>
 			</mrow>
 		</mfrac>
 	</mro>
@@ -103,3 +105,49 @@ I<sub>proyecto</sub> &le; I<sub>interruptor</sub> &le; I<sub>conductor</sub>
 %u=(1,68/220).100
 
 %u=0,76
+
+
+2026-08-24
+
+<hr>
+
+Charla Patricio Ramonino
+
+35 35 30
+
+40 40 20
+
+## Etapas
+
+1. Obra desde cero, el mejor momento es cuando el albañil hace la faja, porque queda a la altura de los tableros. Los albañiles nos manejan los tiempos en la obra.
+
+2. Evitar arquitectos, tratar de vender bocas instaladas. El precio promedio es $100.000 por boca (amurada y cableada)
+
+3. Presupuestos: [Electroinstalador](https://www.electroinstalador.com/paginas/p43-cmo-listado-de-costos-de-mano-de-obra)
+
+4. Reparación: (minimo $30.000)
+	- Movimiento del Vehículo
+	- Gasoil
+	- Herramientas
+
+5. Automatización portones, verificar bien
+
+6. División de circuitos:
+
+	1. 1 Disyuntor + 2 térmicas
+
+	2. Puedo resolverlo en 5 minutos o en 1 mes, desmantelar todas las bocas
+
+	3. Desenchufar todo e ir habilitando por circuitos, termicas, y de esa manera aislaos los tomacorrientes
+
+	4. En instalaciones viejas, siempre medir el voltaje antes de trabajar.
+
+	5. Javalina, lo más cercano posible a los electrodomésticos, Heladera, Lavarropas.
+
+	6. Matrícula, firmas
+
+	7. No mezclar los cables de diferentes señales, telefonia, televisión, internet
+
+	8. Si es casa nueva, dejar una cañería para el tanque.
+
+	9. 1,25m e inferior 0,30m - 0,40m
