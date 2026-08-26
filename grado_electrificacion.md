@@ -166,3 +166,6 @@ I<sub>proyecto</sub> &le; I<sub>interruptor</sub> &le; I<sub>conductor</sub>
 2026-08-26
 
 <hr>
+
+![Calculo de cables por caño](images/detalle-cables-001.svg)
+
