@@ -1,8 +1,13 @@
 # Actividad
 
-![Plano](images/plano001.png)
+<hr>
 
 2026-08-12
+
+<hr>
+
+![Plano](images/plano001.png)
+
 
 ## 5 Demanda de Potencia Máxima Simultánea (DPMS)
 
@@ -42,6 +47,8 @@ I = S / V
 <hr>
 
 2026-08-19
+
+<hr>
 
 ## 9 Interruptor termomagnético
 
@@ -106,18 +113,19 @@ I<sub>proyecto</sub> &le; I<sub>interruptor</sub> &le; I<sub>conductor</sub>
 
 %u=0,76
 
+<hr>
 
 2026-08-24
 
 <hr>
 
-Charla Patricio Ramonino
+## Charla Patricio Ramonino
 
 35 35 30
 
 40 40 20
 
-## Etapas
+### Etapas
 
 1. Obra desde cero, el mejor momento es cuando el albañil hace la faja, porque queda a la altura de los tableros. Los albañiles nos manejan los tiempos en la obra.
 
@@ -151,3 +159,10 @@ Charla Patricio Ramonino
 	8. Si es casa nueva, dejar una cañería para el tanque.
 
 	9. 1,25m e inferior 0,30m - 0,40m
+	
+
+<hr>
+
+2026-08-26
+
+<hr>
